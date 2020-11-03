@@ -1,3 +1,4 @@
+![Robin's Github Intro Block](assets/profile.svg)
 
 - 🔭 I’m currently working with MicroMetrics building customer engagement solutions primarily for the hospitality and healthcare sectors
 - 🌱 I’m currently learning Rust! I think it's the future
